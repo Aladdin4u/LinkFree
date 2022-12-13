@@ -1,45 +1,45 @@
-## [0.76.7](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.6...v0.76.7) (2022-10-05)
+## [1.22.4](https://github.com/EddieHubCommunity/LinkFree/compare/v1.22.3...v1.22.4) (2022-12-11)
 
 
 ### Bug Fixes
 
-* graduation icon syntax ([#1890](https://github.com/EddieHubCommunity/LinkFree/issues/1890)) ([ceb0a99](https://github.com/EddieHubCommunity/LinkFree/commit/ceb0a99a1bc5920dddb3875b64bf2d3d4a3c1030))
+* deleting test testimonial file ([529c567](https://github.com/EddieHubCommunity/LinkFree/commit/529c5678fde412b984f5765f9eba6896d40d1249))
 
 
 
-## [0.76.6](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.5...v0.76.6) (2022-10-03)
-
-
-### Bug Fixes
-
-* improved the `.dockerignore` ([#1848](https://github.com/EddieHubCommunity/LinkFree/issues/1848)) ([cce9dba](https://github.com/EddieHubCommunity/LinkFree/commit/cce9dba37cb17c43ddec9471b1a4323899ceac3a))
-
-
-
-## [0.76.5](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.4...v0.76.5) (2022-10-01)
+## [1.22.3](https://github.com/EddieHubCommunity/LinkFree/compare/v1.22.2...v1.22.3) (2022-12-11)
 
 
 ### Bug Fixes
 
-* update hacktoberfest-invalid label to invalid ([#1850](https://github.com/EddieHubCommunity/LinkFree/issues/1850)) ([b20e5a8](https://github.com/EddieHubCommunity/LinkFree/commit/b20e5a86e5904a661b9612ea492d526988d5eda3))
+* testimonial gh action filter [#2373](https://github.com/EddieHubCommunity/LinkFree/issues/2373) ([58504a6](https://github.com/EddieHubCommunity/LinkFree/commit/58504a668c8337d2e0466b91b81098c01c39889f))
 
 
 
-## [0.76.4](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.3...v0.76.4) (2022-09-30)
-
-
-### Bug Fixes
-
-* goobric's twitter link ([#1835](https://github.com/EddieHubCommunity/LinkFree/issues/1835)) ([5487a19](https://github.com/EddieHubCommunity/LinkFree/commit/5487a19571a564f6e8e4a05000f909cee3bd9493))
-
-
-
-## [0.76.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.2...v0.76.3) (2022-09-28)
+## [1.22.2](https://github.com/EddieHubCommunity/LinkFree/compare/v1.22.1...v1.22.2) (2022-12-11)
 
 
 ### Bug Fixes
 
-* updated discord text ([c83f4c4](https://github.com/EddieHubCommunity/LinkFree/commit/c83f4c40ecce6c5a269d922bf179a46c55627c9a))
+* testimonials action only runs on label [#2373](https://github.com/EddieHubCommunity/LinkFree/issues/2373) ([8659084](https://github.com/EddieHubCommunity/LinkFree/commit/8659084125195faa9e0e185eaa2ad6e5e6bf563e))
+
+
+
+## [1.22.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.22.0...v1.22.1) (2022-12-11)
+
+
+### Bug Fixes
+
+* user not on platform ([44532b4](https://github.com/EddieHubCommunity/LinkFree/commit/44532b4b27d03ee993dae2531fb4d6b08afc287b))
+
+
+
+# [1.22.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.21.1...v1.22.0) (2022-12-10)
+
+
+### Features
+
+* search users by tags ([#2341](https://github.com/EddieHubCommunity/LinkFree/issues/2341)) ([3c55875](https://github.com/EddieHubCommunity/LinkFree/commit/3c5587586aa2b1e40f5597fd1a26facc63544d81))
 
 
 
